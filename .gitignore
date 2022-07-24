@@ -12,6 +12,10 @@
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
+package.json
+sandbox.config.json
+test.html
+
 
 # Mono auto generated files
 mono_crash.*
