@@ -18,7 +18,7 @@
 
   <p align="center">
     <br />
-    <a href="https://alokverma-uiproject-07.netlify.app/">View Demo</a>
+    <a href="https://alokverma-uiproject-07.netlify.app/">Live Link</a>
   </p>
 </div>
 
@@ -84,6 +84,7 @@ This project is presently deployed in **Netlify Service**
   - ✔ Background property 
   - ✔ Pseudo Elements
   - ✔ z-index
+  - ✔ flexbox
 
 <!-- NOTE -->
 
